@@ -1,0 +1,12 @@
+.almfw_post_wrapper h2 {
+  font-size: 20px;
+}
+.load_more_btn_wrapper {
+  margin-top: 10px;
+  display: inline-block;
+}
+.load_more_btn_wrapper a {
+  color: #000;
+  border: 1px solid #000;
+  padding: 10px 20px;
+}
